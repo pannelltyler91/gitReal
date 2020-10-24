@@ -1,0 +1,2 @@
+We are learning about git today! 
+Writing a second line. 
